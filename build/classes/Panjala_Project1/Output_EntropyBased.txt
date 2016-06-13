@@ -1,0 +1,18 @@
+################################################################
+Top K Genes selected using Entropy Based Method
+################################################################
+Line no. 2--> Gene no. 1263 -- Informatoin Gain: 0.187783278273091
+Line no. 4--> Gene no. 191 -- Informatoin Gain: 0.18284514183668354
+Line no. 6--> Gene no. 1266 -- Informatoin Gain: 0.1802465155501974
+Line no. 8--> Gene no. 1914 -- Informatoin Gain: 0.1802465155501974
+Line no. 10--> Gene no. 1857 -- Informatoin Gain: 0.17770343238660727
+Line no. 12--> Gene no. 715 -- Informatoin Gain: 0.17522053128478546
+Line no. 14--> Gene no. 1140 -- Informatoin Gain: 0.17522053128478546
+Line no. 16--> Gene no. 1439 -- Informatoin Gain: 0.17522053128478546
+Line no. 18--> Gene no. 109 -- Informatoin Gain: 0.17280329785671714
+Line no. 20--> Gene no. 561 -- Informatoin Gain: 0.17280329785671714
+Line no. 22--> Gene no. 1615 -- Informatoin Gain: 0.17280329785671714
+Line no. 24--> Gene no. 1897 -- Informatoin Gain: 0.1727715232220581
+Line no. 26--> Gene no. 217 -- Informatoin Gain: 0.17068962396699286
+Line no. 28--> Gene no. 1779 -- Informatoin Gain: 0.17068962396699286
+Line no. 30--> Gene no. 196 -- Informatoin Gain: 0.17045831988877072

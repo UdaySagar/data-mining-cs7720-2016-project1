@@ -1,0 +1,18 @@
+################################################################
+Top K Genes selected using Weka Attribute Selection Method
+################################################################
+Line no.1--> Gene no. 143
+Line no.2--> Gene no. 249
+Line no.3--> Gene no. 258
+Line no.4--> Gene no. 279
+Line no.5--> Gene no. 377
+Line no.6--> Gene no. 467
+Line no.7--> Gene no. 576
+Line no.8--> Gene no. 625
+Line no.9--> Gene no. 682
+Line no.10--> Gene no. 763
+Line no.11--> Gene no. 765
+Line no.12--> Gene no. 897
+Line no.13--> Gene no. 1042
+Line no.14--> Gene no. 1153
+Line no.15--> Gene no. 1200
